@@ -1,0 +1,29 @@
+
+#input {
+    background: #bddcd5;
+    margin-bottom: 5px;
+}
+
+#calculator {
+    width: 100px;
+    background: #111;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+button {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);;
+    color: white;
+    border: 1px solid black;
+}
+
+.special-buttons {
+    background: white;
+    color: black;
+}
+
+#actions {
+    margin-bottom: 5px;
+}
